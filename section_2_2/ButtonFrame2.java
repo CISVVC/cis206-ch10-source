@@ -26,7 +26,8 @@ public class ButtonFrame2 extends JFrame
    {
       public void actionPerformed(ActionEvent event)
       {
-         label.setText("I was clicked.");
+         label.setText("I was clicked  ");
+         button.setText("Button was clicked.");
       }            
    }
 
